@@ -1,0 +1,19 @@
+
+.flex{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  width: 450px;
+  margin: 50px;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);;
+  background: rgb(170, 118, 212);
+  background-image: url("https://i.ibb.co/VLkHcpm/redux-react-javascript-freecodecamp-npm-png-favpng-6-F2x50vis-Ku-C0tr-BQ0952-Cm1-E-t-removebg-previe.png");
+  background-repeat:no-repeat ;
+  background-position-x:55px;
+  background-size: contain;
+}
+

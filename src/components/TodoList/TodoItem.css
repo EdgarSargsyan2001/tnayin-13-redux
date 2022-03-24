@@ -1,0 +1,21 @@
+.Item{
+    margin: 0 31px;
+    padding: 20px 0;
+    font-size: 22px;
+    color: rgb(255, 253, 253);
+    border-bottom:1px solid rgb(130, 79, 226) ;
+    
+}
+.InpCheck{
+    transform: scale(1.4);
+}
+.DelBut{
+    float:right;
+    border: none;
+    font-size: 18px;
+    margin-right: 14px;
+    border-radius: 50px 0px 50px 0px;
+    background: rgb(255, 0, 0);
+    padding: 10px;
+    cursor: pointer;
+}
